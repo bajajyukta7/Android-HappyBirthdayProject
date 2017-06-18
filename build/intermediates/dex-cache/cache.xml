@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Yukta/.android/build-cache/e5a7c1cef0e48c692223937e5bce726a3c8ed1c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d9f58e509a3ff5b601c11ab5ec588c96f9eb82b2">
+        <dex dex="/Users/Yukta/AndroidStudioProjects/HappyBirthday/app/build/intermediates/pre-dexed/debug/classes_e7d9149644024eb28116ec2dc3307779bd9892db.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Yukta/AndroidStudioProjects/HappyBirthday/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/Yukta/AndroidStudioProjects/HappyBirthday/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_47af86f965a8a26e4ecc03ca0d83b29b1b57d7f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Yukta/AndroidStudioProjects/HappyBirthday/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85407ec59d4dba86c315eb1604110ba4836b9e00">
+        <dex dex="/Users/Yukta/AndroidStudioProjects/HappyBirthday/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_45ec97449bf870128a9e5529646a95f015d33246/classes.dex" />
+    </item>
+
+</items>
